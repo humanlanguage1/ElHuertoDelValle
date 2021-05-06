@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Juan Manuel\\Documents\\Webs\\HuertoDelValle\\ElHuertoDelValle\\huertodelvalle.csproj",
+  "FilePath": "d:\\huertodelvalle\\huertodelvalle.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,43 +15619,43 @@
   "RootNamespace": "huertodelvalle",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Juan Manuel\\Documents\\Webs\\HuertoDelValle\\ElHuertoDelValle\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Juan Manuel\\Documents\\Webs\\HuertoDelValle\\ElHuertoDelValle\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Juan Manuel\\Documents\\Webs\\HuertoDelValle\\ElHuertoDelValle\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Juan Manuel\\Documents\\Webs\\HuertoDelValle\\ElHuertoDelValle\\Views\\_ViewImports.cshtml",
+      "FilePath": "d:\\huertodelvalle\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Juan Manuel\\Documents\\Webs\\HuertoDelValle\\ElHuertoDelValle\\Views\\_ViewStart.cshtml",
+      "FilePath": "d:\\huertodelvalle\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\huertodelvalle\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\huertodelvalle\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\huertodelvalle\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Juan Manuel\\Documents\\Webs\\HuertoDelValle\\ElHuertoDelValle\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Juan Manuel\\Documents\\Webs\\HuertoDelValle\\ElHuertoDelValle\\Views\\Shared\\_prueba.cshtml",
+      "FilePath": "d:\\huertodelvalle\\Views\\Shared\\_prueba.cshtml",
       "TargetPath": "Views\\Shared\\_prueba.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Juan Manuel\\Documents\\Webs\\HuertoDelValle\\ElHuertoDelValle\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "d:\\huertodelvalle\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\huertodelvalle\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
