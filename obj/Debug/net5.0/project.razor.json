@@ -15634,6 +15634,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\huertodelvalle\\Views\\Usuario\\Registro.cshtml",
+      "TargetPath": "Views\\Usuario\\Registro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\huertodelvalle\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -15646,6 +15651,11 @@
     {
       "FilePath": "d:\\huertodelvalle\\Views\\Shared\\_prueba.cshtml",
       "TargetPath": "Views\\Shared\\_prueba.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\huertodelvalle\\Views\\Usuario\\IniciarSesion.cshtml",
+      "TargetPath": "Views\\Usuario\\IniciarSesion.cshtml",
       "FileKind": "mvc"
     },
     {
