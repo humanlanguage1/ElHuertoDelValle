@@ -27,6 +27,10 @@ namespace huertodelvalle.Controllers
         {
             return View();
         }
+        public IActionResult prueba2()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
